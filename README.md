@@ -45,9 +45,6 @@
 <br />
 <br />
 
----
-
-
 Recent Github Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
@@ -61,9 +58,13 @@ Recent Github Activity:
 <details>
   <summary>:zap: Github Stats</summary>
   <br />
-  <img align="center" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&theme=gotham&count_private=true" style="display:block;margin:auto;"/>
+  <div>
+    <img align="center" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&theme=gotham&count_private=true"/>
+  </div>
   <br />
-  <img align="center" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzler" style="display:block;margin:auto;" />
+  <div>
+    <img align="center" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzler" style="display:block;margin:auto;" />
+  </div>
 
 </details>
 
