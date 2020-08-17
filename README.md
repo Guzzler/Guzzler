@@ -45,13 +45,10 @@
 <br />
 
 <br />
-<pre>
 
-
-</pre>
 </div>
 
-Recent Github Activity:
+- Recent Github Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 2. 🎉 Merged PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
