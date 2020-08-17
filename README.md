@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&hide_border=true" />
+  <img align="left" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&theme=gotham" />
 
 </details>
 
