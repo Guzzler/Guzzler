@@ -51,10 +51,10 @@
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
-3. 💪 Opened PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
-4. 💪 Opened PR [#34](https://github.com//openshiksha/openshiksha/pull/34) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
-5. 🗣 Commented on [#30](https://github.com//openshiksha/openshiksha/issues/30) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
+2. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
+4. 💪 Opened PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
+5. 💪 Opened PR [#34](https://github.com//openshiksha/openshiksha/pull/34) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
 <!--END_SECTION:activity-->
 
 <details>
