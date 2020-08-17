@@ -53,7 +53,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&theme=gotham" />
+  <img align="left" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&theme=gotham&count_private=true" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
