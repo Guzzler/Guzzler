@@ -61,9 +61,9 @@ Recent Github Activity:
 <details>
   <summary>:zap: Github Stats</summary>
   <br />
-  <img align="center" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&theme=gotham&count_private=true" />
+  <img align="center" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&theme=gotham&count_private=true" style="display:block;margin:auto;"/>
   <br />
-  <img align="center" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzler" />
+  <img align="center" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzler" style="display:block;margin:auto;" />
 
 </details>
 
