@@ -49,7 +49,6 @@
 
 
 ### Recent Github Activity:
-<br />
   <!--START_SECTION:activity-->
 
 
