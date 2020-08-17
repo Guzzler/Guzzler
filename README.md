@@ -9,7 +9,7 @@
 - 🌱 I’m always looking to learn a variety of things
 - 👯 I’m looking to collaborate to build open source educational, accessible and fun games! 
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop a higher tech stack base
-- ⚡ Fun fact: I love to play sports, video games and build stuff!
+- ⚡ Fun fact: I love to play sports and video games and enjoy building beautiful stuff!
 
 
 ### Connect with me:
@@ -54,9 +54,13 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guzzler&show_icons=true&theme=gotham&count_private=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img align="right" alt="Guzzler's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzler" />
 
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzler)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://sharangpai.me
 [instagram]: https://instagram.com/sharang_pai
