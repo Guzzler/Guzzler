@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#3](https://github.com//GearPlug/activecampaign-python/issues/3) in [GearPlug/activecampaign-python](https://github.com//GearPlug/activecampaign-python)
 2. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🎉 Merged PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
-4. 💪 Opened PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
-5. 💪 Opened PR [#34](https://github.com//openshiksha/openshiksha/pull/34) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
+3. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🎉 Merged PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
+5. 💪 Opened PR [#36](https://github.com//openshiksha/openshiksha/pull/36) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
 <!--END_SECTION:activity-->
 
 <details>
