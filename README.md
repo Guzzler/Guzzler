@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#371](https://github.com//sverweij/dependency-cruiser/issues/371) in [sverweij/dependency-cruiser](https://github.com//sverweij/dependency-cruiser)
-2. 🗣 Commented on [#18](https://github.com//imagekit-developer/imagekit-react/issues/18) in [imagekit-developer/imagekit-react](https://github.com//imagekit-developer/imagekit-react)
-3. 🗣 Commented on [#370](https://github.com//sverweij/dependency-cruiser/issues/370) in [sverweij/dependency-cruiser](https://github.com//sverweij/dependency-cruiser)
-4. 💪 Opened PR [#374](https://github.com//sverweij/dependency-cruiser/pull/374) in [sverweij/dependency-cruiser](https://github.com//sverweij/dependency-cruiser)
-5. 💪 Opened PR [#1](https://github.com//Guzzler/Fischerkarte/pull/1) in [Guzzler/Fischerkarte](https://github.com//Guzzler/Fischerkarte)
+1. 🗣 Commented on [#18](https://github.com//imagekit-developer/imagekit-react/issues/18) in [imagekit-developer/imagekit-react](https://github.com//imagekit-developer/imagekit-react)
+2. 💪 Opened PR [#19](https://github.com//imagekit-developer/imagekit-react/pull/19) in [imagekit-developer/imagekit-react](https://github.com//imagekit-developer/imagekit-react)
+3. 🗣 Commented on [#371](https://github.com//sverweij/dependency-cruiser/issues/371) in [sverweij/dependency-cruiser](https://github.com//sverweij/dependency-cruiser)
+4. 🗣 Commented on [#18](https://github.com//imagekit-developer/imagekit-react/issues/18) in [imagekit-developer/imagekit-react](https://github.com//imagekit-developer/imagekit-react)
+5. 🗣 Commented on [#370](https://github.com//sverweij/dependency-cruiser/issues/370) in [sverweij/dependency-cruiser](https://github.com//sverweij/dependency-cruiser)
 <!--END_SECTION:activity-->
 
 <details>
