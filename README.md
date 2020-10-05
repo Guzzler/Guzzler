@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//openshiksha/frontend/issues/6) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
-2. 🗣 Commented on [#32](https://github.com//shaansubbaiah/Portfolio/issues/32) in [shaansubbaiah/Portfolio](https://github.com//shaansubbaiah/Portfolio)
+1. ❗️ Opened issue [#7](https://github.com//openshiksha/frontend/issues/7) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
+2. ❗️ Opened issue [#6](https://github.com//openshiksha/frontend/issues/6) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
 3. 🗣 Commented on [#32](https://github.com//shaansubbaiah/Portfolio/issues/32) in [shaansubbaiah/Portfolio](https://github.com//shaansubbaiah/Portfolio)
-4. 🗣 Commented on [#374](https://github.com//sverweij/dependency-cruiser/issues/374) in [sverweij/dependency-cruiser](https://github.com//sverweij/dependency-cruiser)
-5. 🗣 Commented on [#18](https://github.com//imagekit-developer/imagekit-react/issues/18) in [imagekit-developer/imagekit-react](https://github.com//imagekit-developer/imagekit-react)
+4. 🗣 Commented on [#32](https://github.com//shaansubbaiah/Portfolio/issues/32) in [shaansubbaiah/Portfolio](https://github.com//shaansubbaiah/Portfolio)
+5. 🗣 Commented on [#374](https://github.com//sverweij/dependency-cruiser/issues/374) in [sverweij/dependency-cruiser](https://github.com//sverweij/dependency-cruiser)
 <!--END_SECTION:activity-->
 
 <details>
