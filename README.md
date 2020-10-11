@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com//openshiksha/frontend/pull/9) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
-2. ❗️ Opened issue [#8](https://github.com//openshiksha/frontend/issues/8) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
-3. ❗️ Opened issue [#7](https://github.com//openshiksha/frontend/issues/7) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
-4. ❗️ Opened issue [#6](https://github.com//openshiksha/frontend/issues/6) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
-5. 🗣 Commented on [#32](https://github.com//shaansubbaiah/Portfolio/issues/32) in [shaansubbaiah/Portfolio](https://github.com//shaansubbaiah/Portfolio)
+1. 🎉 Merged PR [#37](https://github.com//openshiksha/openshiksha/pull/37) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
+2. 💪 Opened PR [#37](https://github.com//openshiksha/openshiksha/pull/37) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
+3. 💪 Opened PR [#9](https://github.com//openshiksha/frontend/pull/9) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
+4. ❗️ Opened issue [#8](https://github.com//openshiksha/frontend/issues/8) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
+5. ❗️ Opened issue [#7](https://github.com//openshiksha/frontend/issues/7) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
 <!--END_SECTION:activity-->
 
 <details>
