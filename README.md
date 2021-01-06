@@ -53,8 +53,8 @@
 1. 🎉 Merged PR [#37](https://github.com//openshiksha/openshiksha/pull/37) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
 2. 💪 Opened PR [#37](https://github.com//openshiksha/openshiksha/pull/37) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
 3. 💪 Opened PR [#9](https://github.com//openshiksha/frontend/pull/9) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
-4. ❗️ Opened issue [#8](https://github.com//openshiksha/frontend/issues/8) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
-5. ❗️ Opened issue [#7](https://github.com//openshiksha/frontend/issues/7) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 <details>
