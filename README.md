@@ -52,7 +52,7 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#37](https://github.com//openshiksha/openshiksha/pull/37) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
 2. 💪 Opened PR [#37](https://github.com//openshiksha/openshiksha/pull/37) in [openshiksha/openshiksha](https://github.com//openshiksha/openshiksha)
-3. 💪 Opened PR [#9](https://github.com//openshiksha/frontend/pull/9) in [openshiksha/frontend](https://github.com//openshiksha/frontend)
+3. undefined
 4. undefined
 5. undefined
 <!--END_SECTION:activity-->
