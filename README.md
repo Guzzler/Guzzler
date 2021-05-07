@@ -5,11 +5,11 @@
 
 ## I'm a Gamer, Developer, and Research Enthusiast!
 
-- 🔭 I’m currently working on my startup [Openshiksha][openshikshasite] as well as multiple side projects at all times!
+- 🔭 I’m currently working on my startup [Openshiksha][openshikshasite] as well as multiple side projects at all times
 - 🌱 I’m always looking to learn a variety of things
-- 👯 I’m looking to collaborate and build open source educational, accessible and fun games! 
+- 👯 I’m looking to collaborate and build open source educational, accessible and fun games 
 - 🥅 2020 Goals: Contribute to Open Source projects and develop a higher tech stack base
-- ⚡ Fun fact: I love to play sports, video games, and enjoy building beautiful stuff!
+- ⚡ Fun fact: I love to play sports, video games, and enjoy building beautiful stuff
 
 
 ### Connect with me:
