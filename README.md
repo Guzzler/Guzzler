@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. undefined
-2. undefined
-3. undefined
-4. undefined
-5. undefined
+1. 🗣 Commented on [#12](https://github.com//Guzzler/Cowin-Notification-System/issues/12) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
+2. 🎉 Merged PR [#14](https://github.com//Guzzler/Cowin-Notification-System/pull/14) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
+3. 🎉 Merged PR [#15](https://github.com//Guzzler/Cowin-Notification-System/pull/15) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
+4. 💪 Opened PR [#15](https://github.com//Guzzler/Cowin-Notification-System/pull/15) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
+5. 🎉 Merged PR [#13](https://github.com//Guzzler/Cowin-Notification-System/pull/13) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
 <!--END_SECTION:activity-->
 
 <details>
