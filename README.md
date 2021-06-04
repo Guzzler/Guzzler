@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com//Guzzler/Cowin-Notification-System/pull/21) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
-2. ❗️ Closed issue [#20](https://github.com//Guzzler/Cowin-Notification-System/issues/20) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
-3. 🗣 Commented on [#20](https://github.com//Guzzler/Cowin-Notification-System/issues/20) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
+1. 💪 Opened PR [#22](https://github.com//Guzzler/Cowin-Notification-System/pull/22) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
+2. 💪 Opened PR [#21](https://github.com//Guzzler/Cowin-Notification-System/pull/21) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
+3. ❗️ Closed issue [#20](https://github.com//Guzzler/Cowin-Notification-System/issues/20) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
 4. 🗣 Commented on [#20](https://github.com//Guzzler/Cowin-Notification-System/issues/20) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
-5. 🗣 Commented on [#19](https://github.com//Guzzler/Cowin-Notification-System/issues/19) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
+5. 🗣 Commented on [#20](https://github.com//Guzzler/Cowin-Notification-System/issues/20) in [Guzzler/Cowin-Notification-System](https://github.com//Guzzler/Cowin-Notification-System)
 <!--END_SECTION:activity-->
 
 <details>
