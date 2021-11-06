@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com//jonhenshaw/Cointracker/issues/11) in [jonhenshaw/Cointracker](https://github.com//jonhenshaw/Cointracker)
+1. ❗️ Opened issue [#156](https://github.com//OHIF/react-vtkjs-viewport/issues/156) in [OHIF/react-vtkjs-viewport](https://github.com//OHIF/react-vtkjs-viewport)
 2. 🗣 Commented on [#11](https://github.com//jonhenshaw/Cointracker/issues/11) in [jonhenshaw/Cointracker](https://github.com//jonhenshaw/Cointracker)
-3. 🗣 Commented on [#5](https://github.com//jonhenshaw/Cointracker/issues/5) in [jonhenshaw/Cointracker](https://github.com//jonhenshaw/Cointracker)
-4. 🗣 Commented on [#11](https://github.com//jonhenshaw/Cointracker/issues/11) in [jonhenshaw/Cointracker](https://github.com//jonhenshaw/Cointracker)
-5. 🗣 Commented on [#14](https://github.com//jonhenshaw/Cointracker/issues/14) in [jonhenshaw/Cointracker](https://github.com//jonhenshaw/Cointracker)
+3. 🗣 Commented on [#11](https://github.com//jonhenshaw/Cointracker/issues/11) in [jonhenshaw/Cointracker](https://github.com//jonhenshaw/Cointracker)
+4. 🗣 Commented on [#5](https://github.com//jonhenshaw/Cointracker/issues/5) in [jonhenshaw/Cointracker](https://github.com//jonhenshaw/Cointracker)
+5. 🗣 Commented on [#11](https://github.com//jonhenshaw/Cointracker/issues/11) in [jonhenshaw/Cointracker](https://github.com//jonhenshaw/Cointracker)
 <!--END_SECTION:activity-->
 
 <details>
