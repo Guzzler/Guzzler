@@ -54,7 +54,7 @@
 2. 🗣 Commented on [#2188](https://github.com//Kitware/vtk-js/issues/2188) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
 3. ❗️ Opened issue [#2188](https://github.com//Kitware/vtk-js/issues/2188) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
 4. 🗣 Commented on [#2117](https://github.com//Kitware/vtk-js/issues/2117) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
-5. ❗️ Opened issue [#156](https://github.com//OHIF/react-vtkjs-viewport/issues/156) in [OHIF/react-vtkjs-viewport](https://github.com//OHIF/react-vtkjs-viewport)
+5. undefined
 <!--END_SECTION:activity-->
 
 <details>
