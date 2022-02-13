@@ -53,7 +53,7 @@
 1. ❗️ Opened issue [#2215](https://github.com//Kitware/vtk-js/issues/2215) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
 2. 🗣 Commented on [#2188](https://github.com//Kitware/vtk-js/issues/2188) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
 3. ❗️ Opened issue [#2188](https://github.com//Kitware/vtk-js/issues/2188) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
-4. 🗣 Commented on [#2117](https://github.com//Kitware/vtk-js/issues/2117) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
+4. undefined
 5. undefined
 <!--END_SECTION:activity-->
 
