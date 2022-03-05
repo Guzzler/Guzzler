@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com//InsightSoftwareConsortium/craco-itk/issues/21) in [InsightSoftwareConsortium/craco-itk](https://github.com//InsightSoftwareConsortium/craco-itk)
-2. ❗️ Closed issue [#2188](https://github.com//Kitware/vtk-js/issues/2188) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
-3. ❗️ Opened issue [#488](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/488) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
-4. ❗️ Opened issue [#2215](https://github.com//Kitware/vtk-js/issues/2215) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
-5. 🗣 Commented on [#2188](https://github.com//Kitware/vtk-js/issues/2188) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
+1. ❗️ Closed issue [#488](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/488) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
+2. ❗️ Opened issue [#501](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/501) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
+3. ❗️ Opened issue [#21](https://github.com//InsightSoftwareConsortium/craco-itk/issues/21) in [InsightSoftwareConsortium/craco-itk](https://github.com//InsightSoftwareConsortium/craco-itk)
+4. ❗️ Closed issue [#2188](https://github.com//Kitware/vtk-js/issues/2188) in [Kitware/vtk-js](https://github.com//Kitware/vtk-js)
+5. ❗️ Opened issue [#488](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/488) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
 <!--END_SECTION:activity-->
 
 <details>
