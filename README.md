@@ -54,7 +54,7 @@
 2. 🗣 Commented on [#524](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/524) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
 3. 🗣 Commented on [#524](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/524) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
 4. 🗣 Commented on [#524](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/524) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
-5. ❗️ Opened issue [#524](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/524) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
+5. 🗣 Commented on [#524](https://github.com//InsightSoftwareConsortium/itk-wasm/issues/524) in [InsightSoftwareConsortium/itk-wasm](https://github.com//InsightSoftwareConsortium/itk-wasm)
 <!--END_SECTION:activity-->
 
 <details>
