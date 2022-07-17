@@ -50,11 +50,11 @@
 
 ### Recent Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#747](https://github.com//PrehistoricKingdom/feedback/issues/747) in [PrehistoricKingdom/feedback](https://github.com//PrehistoricKingdom/feedback)
-2. undefined
-3. undefined
-4. undefined
-5. undefined
+1. 🎉 Merged PR [#3](https://github.com//MrMathur/GMTKGJ2022/pull/3) in [MrMathur/GMTKGJ2022](https://github.com//MrMathur/GMTKGJ2022)
+2. 🎉 Merged PR [#2](https://github.com//MrMathur/GMTKGJ2022/pull/2) in [MrMathur/GMTKGJ2022](https://github.com//MrMathur/GMTKGJ2022)
+3. 💪 Opened PR [#2](https://github.com//MrMathur/GMTKGJ2022/pull/2) in [MrMathur/GMTKGJ2022](https://github.com//MrMathur/GMTKGJ2022)
+4. 🎉 Merged PR [#1](https://github.com//MrMathur/GMTKGJ2022/pull/1) in [MrMathur/GMTKGJ2022](https://github.com//MrMathur/GMTKGJ2022)
+5. ❗️ Opened issue [#747](https://github.com//PrehistoricKingdom/feedback/issues/747) in [PrehistoricKingdom/feedback](https://github.com//PrehistoricKingdom/feedback)
 <!--END_SECTION:activity-->
 
 <details>
