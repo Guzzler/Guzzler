@@ -54,7 +54,6 @@
 2. 🎉 Merged PR [#2](https://github.com//MrMathur/GMTKGJ2022/pull/2) in [MrMathur/GMTKGJ2022](https://github.com//MrMathur/GMTKGJ2022)
 3. 💪 Opened PR [#2](https://github.com//MrMathur/GMTKGJ2022/pull/2) in [MrMathur/GMTKGJ2022](https://github.com//MrMathur/GMTKGJ2022)
 4. 🎉 Merged PR [#1](https://github.com//MrMathur/GMTKGJ2022/pull/1) in [MrMathur/GMTKGJ2022](https://github.com//MrMathur/GMTKGJ2022)
-5. undefined
 <!--END_SECTION:activity-->
 
 <details>
