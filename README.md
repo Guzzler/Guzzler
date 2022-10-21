@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my startup [Openshiksha][openshikshasite] as well as multiple side projects at all times
 - 🌱 I’m always looking to learn a variety of things
 - 👯 I’m looking to collaborate and build open source educational, accessible and fun games 
-- 🥅 2021 Goals: Contribute to Open Source projects and develop a higher tech stack base
+- 🥅 2022 Goals: Contribute to Open Source projects and build more games
 - ⚡ Fun fact: I love to play sports, video games, and enjoy building beautiful stuff
 
 
