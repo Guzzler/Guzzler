@@ -5,7 +5,7 @@
 
 ## I'm a Gamer, Developer, and Research Enthusiast!
 
-- 🔭 I’m currently working on my startup [Openshiksha][openshikshasite] as well as multiple side projects at all times
+- 🔭 I’m currently working on multiple side projects and looking to explore AI/ML tools and projects.
 - 🌱 I’m always looking to learn a variety of things
 - 👯 I’m looking to collaborate and build open source educational, accessible and fun games 
 - 🥅 2023 Goals: Contribute to Open Source projects and build more games
