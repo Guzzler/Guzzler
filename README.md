@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on multiple side projects and looking to explore AI/ML tools and projects.
 - 🌱 I’m always looking to learn a variety of things
 - 👯 I’m looking to collaborate and build open source educational, accessible and fun games 
-- 🥅 2023 Goals: Contribute to Open Source projects and build more games
+- 🥅 2024 Goals: Try to learn more about ML for Games!
 - ⚡ Fun fact: I love to play sports, video games, and enjoy building beautiful stuff
 
 
