@@ -1,4 +1,4 @@
-### Hi there, I'm Sharang Pai - [Guzzler][website] 👋
+### Hi there, I'm Sharang Pai 👋
 
 [![Website](https://img.shields.io/website?label=sharangpai.me&style=for-the-badge&url=https%3A%2F%2Fsharangpai.me)](https://sharangpai.me)
 
