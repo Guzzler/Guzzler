@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=sharangpai.me&style=for-the-badge&url=https%3A%2F%2Fsharangpai.me)](https://sharangpai.me)
 
 
-## I'm a Gamer, Developer, and Research Enthusiast!
+## I'm a AI Engineer, Game Developer, and Data Science Enthusiast!
 
 - 🔭 I’m currently working on multiple side projects and looking to explore AI/ML tools and projects.
 - 🌱 I’m always looking to learn a variety of things
