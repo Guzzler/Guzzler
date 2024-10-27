@@ -5,11 +5,10 @@
 
 ## I'm a AI Engineer, Game Developer, and Data Science Enthusiast!
 
-- 🔭 I’m currently working on multiple side projects and looking to explore AI/ML tools and projects.
-- 🌱 I’m always looking to learn a variety of things
+- 🔭 I like to explore and contribute to generative tools in the gaming space.
 - 👯 I’m looking to collaborate and build open source educational, accessible and fun games 
-- 🥅 2024 Goals: Try to learn more about ML for Games!
-- ⚡ Fun fact: I love to play sports, video games, and enjoy building beautiful stuff
+- 🥅 2024 Goals: Try to learn more about AI/ML tools for Games!
+- ⚡ I love to watch and play sports, play and build video games, and watch anime in my free time.
 
 
 ### Connect with me:
