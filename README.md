@@ -27,18 +27,18 @@
   <img align="left" display='inline-block' alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img align="left" alt="Python" width="32px" src="https://www.svgrepo.com/show/376344/python.svg" />
   <img align="left" alt="Unity" width="32px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />
+  <img align="left" alt="Typescript" width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
   <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="left" alt="Flask" width="32px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />
-  <img align="left" alt="Celery" width="32px" src="https://img.stackshare.io/service/1075/celery.png" />
-  <img align="left" alt="Jquery" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" />
-
+  <img align="left" alt="Django" width="32px" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
   <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
   <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   <img align="left" alt="GoLang" width="32px" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
   <img align="left" alt="FastAPI" width="32px" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" />
+  <img align="left" alt="Celery" width="32px" src="https://img.stackshare.io/service/1075/celery.png" />
+
 <br />
 
 <br />
