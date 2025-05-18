@@ -7,7 +7,7 @@
 
 - 🔭 I like to explore and contribute to generative tools in the gaming space.
 - 👯 I’m looking to collaborate and build open source educational, accessible and fun games 
-- 🥅 2024 Goals: Try to learn more about AI/ML tools for Games!
+- 🥅 2025 Goals: Try to learn more about AI/ML tools for Games!
 - ⚡ I love to watch and play sports, play and build video games, and watch anime in my free time.
 
 
